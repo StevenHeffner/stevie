@@ -75,7 +75,7 @@ displayPreMessage(){
   let month = monthNames[now.getMonth()]
   let year = now.getFullYear()
   var i = 0;
-  var txt = `On ${day} ${month} ${date}rd , Austin Pegues shared an idea with Marcel Saucet.`; /* The text */
+  var txt = `On ${day} ${month} ${date}rd , Austin Pegues shared an idea with Jacob Yang.`; /* The text */
   var speed = 25; /* The speed/duration of the effect in milliseconds */
   console.log(txt);
   

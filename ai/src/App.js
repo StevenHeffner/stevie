@@ -28,7 +28,7 @@ class App extends Component {
             number: {
               value: 170,
               density: {
-                enable: true,
+                enable: false,
                 value_area: 800
               }
             },
